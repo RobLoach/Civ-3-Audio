@@ -1,6 +1,6 @@
-# Civ 3 Audio for Unciv
+# Civ 3 Music for Unciv
 
-[Unciv](https://yairm210.github.io/Unciv/) mod for the Music and Sounds from Civilization 3.
+[Unciv](https://yairm210.github.io/Unciv/) mod for the Music from Civilization 3.
 
 ![Preview](preview.png)
 
@@ -8,5 +8,5 @@
 
 1. Load Unciv
 2. Visit Mods
-3. Find and download "Civ 3 Audio"
+3. Find and download "Civ 3 Music"
 4. Enable "Permanent audiovisual mod"
